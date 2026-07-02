@@ -83,6 +83,24 @@ This repository values:
 
 ---
 
+## Engineering Integrity
+
+Sentinel is built using modern engineering tools, including AI.
+
+AI is treated as an engineering assistant, not an engineering replacement.
+It helps challenge assumptions, review designs, accelerate research, and explain unfamiliar concepts.
+The final engineering decisions remain my responsibility.
+
+However, every architectural decision, algorithm, interface, and implementation merged into this repository must be something I can independently explain, justify, and defend.
+
+If I cannot explain a piece of code on a whiteboard without external help, it does not belong in Sentinel.
+
+The goal of this repository is not to demonstrate how quickly software can be generated.
+
+The goal is to demonstrate how deeply embedded systems can be understood.
+
+---
+
 ## What this is NOT
 
 This is not:
@@ -125,3 +143,31 @@ Success is when an experienced firmware engineer opens this repository and think
 > "I'd enjoy discussing this architecture with the person who built it."
 
 That is the standard this repository is aiming for.
+
+---
+
+## A promise to my future self
+
+> "Every commit should leave Sentinel better than I found it."
+
+---
+
+# The Laws of Sentinel
+
+## First Law
+
+Sentinel observes the system.
+
+It never becomes the problem.
+
+---
+
+## Second Law
+
+Every engineering decision must be explainable.
+
+---
+
+## Third Law
+
+Every module must earn its place.
